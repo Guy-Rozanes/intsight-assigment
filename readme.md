@@ -14,7 +14,7 @@ python -m venv venv
 
 For installing all dependencies run
 ```
- pip install -r requirements.txt
+ pip install --no-cache-dir -r requirements.txt
 ``` 
  
 
