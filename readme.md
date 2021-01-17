@@ -1,8 +1,23 @@
 # Insights assignment
 
+### Requirements
+
+- Python 3.8
+
 ### Set Environment
 
-Run pip install -r requirements.txt for install all dependencies
+Create a virtual enviorements for the project
+
+```
+python -m venv venv
+```
+
+For installing all dependencies run
+```
+ pip install -r requirements.txt
+``` 
+ 
+
 
 ### Running locally
 
