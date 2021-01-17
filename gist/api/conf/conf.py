@@ -1,3 +1,3 @@
 GISTS_HOST = 'https://api.github.com'
-ACCESS_TOKEN = 'c44adeaca544c8baacf9ccadbd1331b2ca9cd6ef'
+ACCESS_TOKEN = 'e78d21330cbc9a049b26e75ed19328dda60e654b'
 ERROR_STATUS_CODES = [400, 403, 404, 422, 401]
